@@ -42,14 +42,12 @@ popd
 # Generate test cases
 ###########################################################
 mkdir -p test_cases
-readarray a < base_test_expressions.txt
 counter=0
-for i in ${a[@]}
-do
+while IFS= read -r i; do
    echo $i > test_cases/`printf "%05d" ${counter}`.txt
    printf "Generating test case: %05d\n" ${counter}
-   counter=$((counter + 1))
-done
+   ((++counter))
+done < <(cat base_test_expressions.txt)
 ###########################################################
 
 

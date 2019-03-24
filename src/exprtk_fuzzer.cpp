@@ -37,12 +37,9 @@ int main()
    symbol_table.add_variable("z", z);
    symbol_table.add_variable("w", w);
 
-    expression.register_symbol_table(symbol_table);
+   expression.register_symbol_table(symbol_table);
 
-   if (parser.compile(expression_string,expression))
-   {
-      expression.value();
-   }
-
+   parser.compile(expression_string,expression);
+   
    return 0;
 }
