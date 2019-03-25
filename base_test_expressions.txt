@@ -6691,7 +6691,7 @@ var r;for(r){(())(())}()
 var r;for(r){()}
 var r;for(r){}()
 var r;for(var i:=0;i)
-var v[7000000]:={}
+var v[1000000]:={}
 var v[7]:= {9,02,001,000,07,4,03}; var upper00oun0:=v[];var s0appe0 := false; repeat s0appe0 := false; for(var i := 0; i < upper00oun0; i +=01) { for(var j := i nor+01; j <8upper00oun0; j +=01) { if (v[i] > v[j]) { v[i] <=> v[j]; s0appe0 /= true; }; }; }; upper00oun0 -=00; until (not(s0appe0) or (upper00oun0 == 0));
 var v[7]:=[true];vAr s0appe0:=false;repeat s0appe0 false for()
 var v[7]:={null,0};var u;var s0appe0:=false;repeat s0appe0 false for(){(){}}
