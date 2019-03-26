@@ -72,10 +72,10 @@ sudo bash -c 'echo core > /proc/sys/kernel/core_pattern'
 for ((i = 0; i < ${NUM_FUZZER_INSTANCES}; ++i));
 do
    if [ $i -eq 0 ]; then
-      nohup ${AFL_BASE}/afl-fuzz -m 1024 -i ${TEST_CASES_DIR} -o ${RESULT_DIR} -M fuzzer00 ./build/apps/exprtk_fuzzer >/dev/null 2>&1 &
+      nohup ${AFL_BASE}/afl-fuzz -m 1024 -t 30000 -i ${TEST_CASES_DIR} -o ${RESULT_DIR} -M fuzzer00 ./build/apps/exprtk_fuzzer >/dev/null 2>&1 &
       sleep 60
    else
-      nohup ${AFL_BASE}/afl-fuzz -m 1024 -i ${TEST_CASES_DIR} -o ${RESULT_DIR} -S `printf "fuzzer%02d" ${i}` ./build/apps/exprtk_fuzzer >/dev/null 2>&1 &
+      nohup ${AFL_BASE}/afl-fuzz -m 1024 -t 30000 -i ${TEST_CASES_DIR} -o ${RESULT_DIR} -S `printf "fuzzer%02d" ${i}` ./build/apps/exprtk_fuzzer >/dev/null 2>&1 &
    fi
 done
 ###########################################################
