@@ -6668,7 +6668,6 @@ var r:=0;for(r){()()}()
 var r:=0;for(r){()}
 var r:=0;for(r){()}()
 var r:=0;for(var i:=0;i){()}
-var r:=0;for(var i;;){((0))sin((0))}(0)
 var r:=0;r for(())
 var r:=0;r for()
 var r:=for(Var i:=0;i){()}
@@ -6692,7 +6691,7 @@ var r;for(r){(())(())}()
 var r;for(r){()}
 var r;for(r){}()
 var r;for(var i:=0;i)
-var v[1000000]:={}
+var v[700000]:={}
 var v[7]:= {9,02,001,000,07,4,03}; var upper00oun0:=v[];var s0appe0 := false; repeat s0appe0 := false; for(var i := 0; i < upper00oun0; i +=01) { for(var j := i nor+01; j <8upper00oun0; j +=01) { if (v[i] > v[j]) { v[i] <=> v[j]; s0appe0 /= true; }; }; }; upper00oun0 -=00; until (not(s0appe0) or (upper00oun0 == 0));
 var v[7]:=[true];vAr s0appe0:=false;repeat s0appe0 false for()
 var v[7]:={null,0};var u;var s0appe0:=false;repeat s0appe0 false for(){(){}}
@@ -6774,6 +6773,7 @@ var v[7]:={};var u00er00oun0:=var e;for(return u00er00oun0){{{}}}
 var v[7]:={};var u00er00oun0:=var e;for(var n u00er00oun0){(){}}(())
 var v[7]:={};var upper00ou00:=var e;for(repeat avg upper00ou00){{()}}
 var v[7]:={};var upper00ou00:=var s;repeat false for(var i:=upper00ou00;i){(){}}(())
+var r:=0;for(var i;;){((0))sin((0))}(0)
 var v[7]:={3};var upper00oun0:=v;var s0appe0:=false;repeat false for(0;upper00oun0;){for(var j:=0;upper00oun0;j+=1){if(v[j]){[0]}}}upper00oun0 until(not(s0appe0)or(upper00oun0))
 var v[7]:={3};var upper00oun0:=v;var s0appe0:=false;repeat false for(0;upper00oun0;){for(var j:=0;upper00oun0;j+=1){(v>v[j]){[0]s0appe0}}}upper00oun0-0until(not(s0appe0))
 var v[7]:={3};var upper00oun0:=v;var s0appe0:=false;repeat false for(0;upper00oun0;){for(var j:=0;upper00oun0;j+=1){if(v[j]){[0]s0appe0=true}}}upper00oun0 until(not(s0appe0)0(upper00oun0=0))
@@ -6784,7 +6784,7 @@ var v[7]:={};var upper00oun0:=var s0appe0:=false;repeat false for(var i:=0;;){fo
 var v[7]:={3};vAr upper00oun0:=v;var s0appe0:=false;repeat false for(0;upper00oun0;){for(var j:=0;upper00oun0;j+=1){(v>v[j]){[0]s0appe0}}}upper00oun0-0until(not(s0appe0))
 var v[7]:={};var upper00oun0:=v[];var s0appe0:=false;repeat s0appe0 false for(var i;upper00oun0;){for(var j:=0;;){([0]){[0]s0appe0}}}upper00oun0 until(not(s0appe0)or(upper00oun0))
 var v[7]:={3};var upper00ound:=v;var s0apped:=false;repeat false for(0;upper00ound;){for(var j:=0;upper00ound;j+=1){(v>v[j]){[0]s0apped}}}upper00ound-0until(not(s0apped)or rad2deg(upper00ound))
-var v[7] := {9.0, 2.0, 1.0, 5.0, 7.0, 4.0, 3.0}; var upper_bound := v[]; var swapped := false; repeat swapped := false; for(var i := 0; i <8upper_bound; i += 1) { for(var j := i nor+ 1; j < upper_bound; j += 1) { if (v[i] > v[j]) { v[i] <=> v[j]; swapped /= true; }; }; }; upper_bound -= 0; until (not(swapped) or (upper_bound == 0));
+var v[7] := {9.0, 2.0, 1.0, 5.0, 7.0, 4.0, 3.0}; var upper_bound := v[]; var swapped := false; repeat swapped := false; for(var i := 0; i <8upper_bound; i += 1) { for(var j := i nor+ 1; j < upper_bound; j += 1) { if (v[i] > v[j]) { v[i] <=> v[j]; swapped /= true; }; }; }; upper_bound -= 0; until (not(swapped) or (upper_bound == 0)); 
 var v[7]:={};var upper00oun0:=[null];var s0appe0:=false;repeat s0appe0 false for(0;upper00oun0;){for(var j:=0;upper00oun0;j+=1){if(v[j]){[0]s0appe0}}}upper00oun0-0until(not(s0appe0)or(upper00oun0))
 var v[7]:={3};var upper00oun0:=v[false];var s0appe0:=false;repeat false for(var i;upper00oun0;){for(var j:=0;upper00oun0;j+=1){if([i]v[j]){[0]}}}upper00oun0 until(not(s0appe0)or(upper00oun0))
 var v[7]:={3};var upper00oun0:=v;var s0appe0:=false;repeat false for(0;upper00oun0;){for(var j:=0;upper00oun0;j+=1){(v<v[j]){[0]s0appe0}}}upper00oun0-0until(not(s0appe0))
@@ -6823,3 +6823,398 @@ var v[7]:={3};var upper00oun0:=v;var s0appe0:=false;repeat false for(var i:=0;up
 var v[7]:={3};var upper00oun0:=v;var s0appe0:=false;repeat false for(var i:=0;upper00oun0;){for(var j:=0;0<upper00oun0;j+=1){if(v[]){[i]<=>v[j];s0appe0 true;}}}upper00oun0 until(not(s0appe0)or(upper00oun0))
 var v[7]:={3};var upper00oun0:=v;var s0appe0:=false;repeat false for(var i:=0;upper00oun0;){for(var j:=0;0|upper00oun0;j+=1){if(v[]){[i]<=>v[j];s0appe0 true;}}}upper00oun0 until(not(s0appe0)or(upper00oun0))
 var v[7]:={3};var upper00oun0:=v;var s0appe0:=false;repeat false for(0;upper00oun0;){for(var j:=0or 0;upper00oun0;j+=1){(v){v[]v[j]}}}upper00oun0 until(not(s0appe0)or(upper00oun0))
+0 ? 1 : 2
+[(0)] ? [(1)] : [(2)]
+(0 ? 1 : 2) == 2
+'01234'              == '01234567890123456789'[:r1-r0]
+'0123456'            == '01234567890123456789'[:  r1]
+'0123456789'[0:] == '01234567890123456789'[0:9]
+'0123456789'[:]  == '01234567890123456789'[0:9]
+'0123456789'     == '01234567890123456789'[0:9]
+'0123456789'[:]  == '01234567890123456789'[10:]
+'01234567890123456789'[0:9] == '0123456789'
+'01234567890123456789'[0:9] == '0123456789'[0:]
+'01234567890123456789'[0:9] == '0123456789'[:9]
+'01234567890123456789'[0:9] != '123456789'
+'01234567890123456789'[0:9] != '123456789'[0:]
+'01234567890123456789'[0:9] != '123456789'[:8]
+'01234567890123456789'[10:] == '0123456789'[:]
+'01234567890123456789'[10:] != '123456789'[:]
+'01234567890123456789'[1+1:r1]  == '23456'
+'01234567890123456789'[2*6:10+6] == '23456'
+'01234567890123456789'[2: r1]   == '23456'
+'01234567890123456789'[:9]  == '0123456789'[:9]
+'01234567890123456789'[:9]  != '123456789'[:8]
+'01234567890123456789'[r0:  ]   == '234567890123456789'
+'01234567890123456789'[r0+2:r1] == '456'
+'01234567890123456789'[r0:3*2]  == '23456'
+'01234567890123456789'[r0: 6]   == '23456'
+'01234567890123456789'[r0:r1+2] == '2345678'
+'01234567890123456789'[r0:r1]   == '23456'
+'01234567890123456789'[:  r1]   == '0123456'
+'01234567890123456789'[:r1-r0]  == '01234'
+'01234567890123456789'[r1-r0:]  == '4567890123456789'
+'0123456789'[3:3] == '3'[:]
+'0123456789'[3:3] == '3'[0:0]
+'0123456789'[:9] == '01234567890123456789'[0:9]
+'0123456789'[:9] == '01234567890123456789'[:9]
+0 * (abs  (x) + acos (y) + asin (x) + atan (y))
+0 * (ceil (x) + cos  (y) + cosh (x) + exp  (y))
+0 * (deg2grad(x) + grad2deg(y) + rad2deg(x) + deg2rad(y))
+0 * (erf  (x) + erfc (y) + sgn  (y) + frac (y))
+0 * (floor(x) + log  (y) + log10(x) + round(y))
+0 == (for (var i := 0; i < 10; i += 1) { ~{break[i]; continue; i += i} })
+0 == (for (var i := 0; i < 10; i += 1) { ~{continue; break[7]; i += i} })
+0 * (log1p(x) + expm1(y) + acosh(x) + asinh(y))
+0 * (sec  (x) + csc  (y) + tanh (x) + cot  (y))
+0 * (sin  (x) + sinh (y) + sqrt (x) + tan  (y))
+(1 + 1 < 3 + 3 ? 7 : 9) == 7
+(1 + 1 > 3 + 3 ? 7 : 9) == 9
+(1 + 1 < 3 ? 7 : 9) == 7
+(1 + 1 > 3 ? 7 : 9) == 9
+(1 < 2 ? 3 : 4) == 3
+(1 > 2 ? 3 : 4) == 4
+'123456789'[0:]  != '01234567890123456789'[0:9]
+'123456789'[:]   != '01234567890123456789'[0:9]
+'123456789'      != '01234567890123456789'[0:9]
+'123456789'[:]   != '01234567890123456789'[10:]
+'123456789'[:8]  != '01234567890123456789'[0:9]
+'123456789'[:8]  != '01234567890123456789'[:9]
+(1 > 2 ? 3 : 4 + 5) == 9
+(1 < 2 ? 3 + 5 : 4) == 8
+'123' in 'aaa123'
+12 == (if (1 > 2) { var x:= 2; } else { var x[3] := {7,2,3}; sum(x); })
+12 == (if (1 < 2) { var x[3] := {7,2,3}; sum(x); } else { var x:= 2; })
+ 1 ? 3 : 4
+(1 ? 3 : 4) == 3
+1 == (for (var i := 0; i < 10; i += 1) { ~{break[i += 1]; continue; i += i} })
+'1XYZ2' ilike '*xyz*'
+21 == (for (var i := 0; i < 10; i += 1) { if (i > 2) { break [i * 7]; i += 1; i += 2; i += 3; }; })
+21 == (for (var i := 0; i < 10; i += 1) { if (i > 2) { break [i * 7]; return [i * 8]; i += 1; i += 2; i += 3; }; })
+(2 < 3 + 3 ? 7 : 9) == 7
+(2 > 3 + 3 ? 7 : 9) == 9
+'23456'              == '01234567890123456789'[1+1:r1]
+'23456' == '01234567890123456789'[2*6:10+6]
+'23456'              == '01234567890123456789'[2: r1]
+'23456'              == '01234567890123456789'[r0:3*2]
+'23456'              == '01234567890123456789'[r0: 6]
+'23456'              == '01234567890123456789'[r0:r1]
+'2345678'            == '01234567890123456789'[r0:r1+2]
+'234567890123456789' == '01234567890123456789'[r0:  ]
+2 == for (var i := 0; i < 10; i += 1) { if (i > 2) { continue; i += 1; i += 2; i += 3; } else i; }
+2 == for (var i := 0; i < 10; i += 1) { if (i > 2) { continue; return [i * 8]; i += 1; i += 2; i += 3; } else i; }
+'456'                == '01234567890123456789'[r0+2:r1]
+'4567890123456789'   == '01234567890123456789'[r1-r0:]
+7 == (for (var i := 0; i < 10; i += 1) { ~{break[7]; continue; i += i} })
+'a123b' like '*123*'
+'aaa' + '123' == 'aaa123'
+'aaa123' == 'aaa' + '123'
+'aaa' == 'aaa'
+'aaa' <= 'bbb'
+'aaa'  < 'bbb'
+'aaa' in 'aaa123'
+'bbb' >= 'aaa'
+'bbb' >  'aaa'
+[*] { case 1 < 2 : 1 / 2; case (1 < 3) : 2 / 2; case 1 < 4 : 3 / 2; case (1 < 5) : 4 / 2; }
+[*]{ case x < y : x + y; case y < x : y - x; }
+equal((2.2*pi^2.2^3.3),2.2*(pi^13.4894687605338489))
+equal((2*pi^2^3),2*(pi^8))
+equal((pi^2.2^3.3*2),2*(pi^13.4894687605338489))
+equal((pi^2.2^3.3/2.2),(pi^13.4894687605338489)/2.2)
+equal((pi^2.2^3.3),(pi^13.4894687605338489))
+equal((pi^-2^-3),1/(pi^(1/8)))
+equal((pi^-2^3),1/(pi^8))
+equal((pi^2^3*2),2*(pi^8))
+equal((pi^2^3/2),(pi^8)/2)
+equal((pi^2^-3),(pi^(1/8)))
+equal((pi^2^3),(pi^8))
+equal(pi^2^3-pi^8,0)
+equal(\t \n(\n \r1.1\t\t - \n\n 2.2\n\n/\r3.3\t),(1.1-2.2/3.3))
+for(var i := 0; (i < 10) and (i != y); i+=2) { x += i; }; x;
+for(var i := 0; (i < 10) and (i != y);) { x += i; i+=2; }; x;
+for(var i := 0; (i < 10);) { i += 1; }; x;
+for(var i := 0; (i < y); i += 1) { if (i <= (y / 2)) continue; else x += i; }; x;
+for(var i := 0; (i < y); i += 1) { if (i <= (y / 2)) x += i; else break; }; x;
+if (1 < 2) { 1+2; 3;} == 3
+if (1 < 2) { 1+2; 3;} else {1+2; 4;} == 3
+if (1 > 2) { 1+2; 3;} else {1+2; 4;} == 4
+if (1 < 2) { 1+2; 3;} else 4; == 3
+if (1 > 2) { 1+2; 3;} else 4; == 4
+if (1 < 2) { 1+2; 3;} else if (1 < 2) {1+2; 4;} == 3
+if (1 > 2) { 1+2; 3;} else if (1 < 2) {1+2; 4;} == 4
+if (1 > 2) { 1+2; 3;} else if (1 > 2) {1+2; 4;} == null
+if (1 < 2) { 1+2; 3;} else if (1 < 2) 4; == 3
+if (1 > 2) { 1+2; 3;} else if (1 < 2) 4; == 4
+if (1 > 2) { 1+2; 3;} else if (1 > 2) 4; == null
+if (1 > 2) { 1+2; 3;} == null
+if (1 < 2) 3; == 3
+if (1 < 2) 3; else {1+2; 4;} == 3
+if (1 > 2) 3; else {1+2; 4;} == 4
+if (1 < 2) 3; else 4; == 3
+if (1 > 2) 3; else 4; == 4
+if (1 < 2) 3; else if (1 < 2) {1+2; 4;} == 3
+if (1 > 2) 3; else if (1 < 2) {1+2; 4;} == 4
+if (1 > 2) 3; else if (1 > 2) {1+2; 4;} == null
+if (1 < 2) 3; else if (1 < 2) 4; == 3
+if (1 > 2) 3; else if (1 < 2) 4; == 4
+if (1 > 2) 3; else if (1 > 2) 4; == null
+if (1 > 2) 3; == null
+inrange('aaa','bbb','ccc')
+(min(0,1) ? 1 + 3 : 1 + 4) == 5
+(min(1,2) ? 1 + 3 : 1 + 4) == 4
+repeat 1.1 + 2.2 until (1 < 2)
+repeat 1.1234; 1 < 2; 1.1 + 2.2 until (1 < 2)
+switch { case 1 > 1 : 1; case 2 > 2 : 2; case 3 = 3 : 3; case 4 > 4 : 4; default : 5; }
+switch { case (1 >  2) : 0; case (1 <= 2) : 1; default: 1.12345; }
+switch { case (1 <= 2) : 1; default: 1.12345; }
+switch { case (1 <= 2) : switch { case (1 <= 2) : 1; default: 1.12345; }; default: 1.12345; }
+switch { case ([x >  y]) : [0]; case ([x <= y]) : [y - x]; default: 1.12345; }
+switch { case (x >  y) : 0; case (x <= y) : (y - x); default: 1.12345; }
+switch { case {(x <= y)} : switch { case ({x <= y}) : x; default: 1.12345; }; default: 1.12345; }
+switch { case {x <= y} : switch { case {x <= y} : x; default: 1.12345; }; default: 1.12345; }
+switch { case (x <= y) : switch { case (x <= y) : (y - x); default: 1.12345; }; default: 1.12345; }
+switch { case {x <= y} : x; default: 1.12345; }
+switch { case [(x <= y)] : {y - x}; default: 1.12345; }
+switch { case (x <= y) : (y - x); default: 1.12345; }
+var s := 'abc';  ~{1 + 2; 'abc' + s; s} == s
+var s := 'abc';  ~{1 + 2; var x := 'ab'; x + 'c'} == s
+var s := 'abc';  ~{'ab' + 'c'} == s
+var s := 'abc';  ~{'abc'     } == s
+var s := 'abc';  s == ~{'ab' + 'c'}
+var s := 'abc';  s == ~{'abc'     }
+var s := 'abc';  ~{s         } == s
+var s := 'abc';  s == ~{s         }
+var v0[3] := {1,2, 3}; var v1[3] := {1,1,1}; v0 -= v1; (v0[0] == 0) and (v0[1] == 1) and (v0[2] == 2)
+var v0[3] := {1,2, 3}; var v1[3] := {1,1,1}; v0 += v1; (v0[0] == 2) and (v0[1] == 3) and (v0[2] == 4)
+var v0[3] := {1,2, 3}; var v1[3] := {2,2,2}; v0 *= v1; (v0[0] == 2) and (v0[1] == 4) and (v0[2] == 6)
+var v0[3] := [1]; var v1[3] := [1]; v0 -= v1; (v0[0] == v0[1]) and (v0[0] == v0[2]) and (v0[0] == 0)
+var v0[3] := [1]; var v1[3] := [1]; v0 += v1; (v0[0] == v0[1]) and (v0[0] == v0[2]) and (v0[0] == 2)
+var v0[3] := [1]; var v1[3] := [2]; v0 *= v1; (v0[0] == v0[1]) and (v0[0] == v0[2]) and (v0[0] == 2)
+var v0[3] := {3,9,15}; var v1[3] := {3,3,3}; v0 /= v1; (v0[0] == 1) and (v0[1] == 3) and (v0[2] == 5)
+var v0[3] := [3]; var v1[3] := [3]; v0 /= v1; (v0[0] == v0[1]) and (v0[0] == v0[2]) and (v0[0] == 1)
+var v[2] := {1,2}; swap(v[0],v[1]); (v[0] == 2) and (v[1] == 1)
+var v[2] := {1,2}; swap(v[2 * zero],v[(2 * one) / (1 + 1)]); (v[2 * zero] == 2) and (v[(2 * one) / (1 + 1)] == 1)
+var v[2] := {1,2}; swap(v[zero],v[one]); (v[zero] == 2) and (v[one] == 1)
+var v[2] := {1,2}; v[0] <=> v[1]  ; (v[0] == 2) and (v[1] == 1)
+var v[2] := {1,2}; ~(v[2 * zero] <=> v[(2 * one) / (1 + 1)]  , (v[2 * zero] == 2) and (v[(2 * one) / (1 + 1)] == 1))
+var v[2] := {1,2}; v[2 * zero] <=> v[(2*one)/(1+1)]  ; (v[2 * zero] == 2) and (v[(2 * one) / (1 + 1)] == 1)
+var v[2] := {1,2}; v[zero] <=> v[one]  ; (v[zero] == 2) and (v[one] == 1)
+var v[3] := {1,2, 3}; v -= 1; (v[0] == 0) and (v[1] == 1) and (v[2] == 2)
+var v[3] := {1,2, 3}; v += 1; (v[0] == 2) and (v[1] == 3) and (v[2] == 4)
+var v[3] := {1,2, 3}; v *= 2; (v[0] == 2) and (v[1] == 4) and (v[2] == 6)
+var v[3] := [1]; v -= 1; (v[0] == v[1]) and (v[0] == v[2]) and (v[0] == 0)
+var v[3] := [1]; v += 1; (v[0] == v[1]) and (v[0] == v[2]) and (v[0] == 2)
+var v[3] := [1]; v *= 2; (v[0] == v[1]) and (v[0] == v[2]) and (v[0] == 2)
+var v[3] := {3,9,15}; v /= 3; (v[0] == 1) and (v[1] == 3) and (v[2] == 5)
+var v[3] := [3]; v /= 3; (v[0] == v[1]) and (v[0] == v[2]) and (v[0] == 1)
+var x; 1
+var x[10] := [-1]; var y[10] := [-1]; for (var i := 0; i < 10; i += 1) { x[i] := i; y[i] := 2 * x[i]; }; (sum(x) == 45) and (sum(y) == (2 * sum(x)));
+var x[10^6]:=[2];var y[10^6]:=[3]; var s:=0;equal(for(var i:=0; i<10;i+=1){s+= sum(5 *(2x-y/3)) + i;},150000045.0)
+var x[10^6] := null; var y[10^7] := null; 0 * (min(x) + min(y)) + x[] + y[] == 10^7 + 10^6
+(~{~{ var x[1] := [1] }} + ~{ var x[1] := [1] } + ~{ var x[1] := [2] } + ~{{ var x[1] := [2] }}) == 6
+(~{~{ var x[1] := [1] }} + ~{ var x[1] := [1] } + ~{ var x[1] := [2] } + ~{{ var x    := [2] }}) == 6
+(~{~{ var x[1] := [1] }} + ~{ var x[1] := [1] } + ~{ var x    := [2] } + ~{{ var x[1] := [2] }}) == 6
+(~{ var x[1] := [1] } + ~{ var x[1] := [2] } + ~{~{ var x[1] := [1] } + ~{ var x[1] := [2] }}) == 6
+(~{ var x[1] := [1] } + ~{ var x[1] := [2] } + ~{~{ var x[1] := [1] } + ~{ var x    := [2] }}) == 6
+(~{~{~{var x[1] := [1]}}} + ~{~{var x[1] := [2]}} + ~{var x[1] := [3]}) == 6
+(~{ var x[1] := [1] } + ~{ var x[1] := [2] } + ~{~{ var x    := [1] } + ~{ var x[1] := [2] }}) == 6
+(~{~{ var x[1] := [1] }} + ~{ var x    := [1] } + ~{ var x[1] := [2] } + ~{{ var x[1] := [2] }}) == 6
+(~{ var x[1] := [1] } + ~{ var x    := [2] } + ~{~{ var x[1] := [1] } + ~{ var x[1] := [2] }}) == 6
+var x:=1;  2-(3+abs(x)) == -2
+var x:=1;  2/(3*abs(x)) == (2/3)
+var x:=1;  2+(3-abs(x)) == 4
+var x:=1;  2+(3+abs(x)) == 6
+~{var x := '123'; x[]} + ~{~{var x := '1234'; x[]}} == 7
+~{var x := '123'; x[]} + ~{var x := '1234'; x[]}    == 7
+~{var x := '123'; x[]} + ~{~{var x := 4}}           == 7
+~{var x := '123'; x[]} + ~{var x := 4}              == 7
+var x:=1;  2+(abs(x)-3) == 0
+var x:=1;  2-(abs(x)+3) == -2
+var x:=1;  2*(abs(x)/3) == (2/3)
+var x:=1;  2+(abs(x)+3) == 6
+var x:=1;  (3+abs(x))-2 ==  2
+var x:=1;  (3*abs(x))/2 == (3/2)
+var x:=1;  (3-abs(x))+2 == 4
+var x:=1;  (3+abs(x))+2 == 6
+var x:=1;  (abs(x)-3)+2 == 0
+var x:=1;  (abs(x)/3)/2 == (1/6)
+var x:=1;  (abs(x)+3)-2 ==  2
+var x:=1;  (abs(x)/3)*2 == (2/3)
+var x:=1;  (abs(x)*3)/2 == (3/2)
+var x:=1;  (abs(x)+3)+2 == 6
+(~{~{ var x    := [1] }} + ~{ var x[1] := [1] } + ~{ var x[1] := [2] } + ~{{ var x[1] := [2] }}) == 6
+(~{ var x    := [1] } + ~{ var x[1] := [2] } + ~{~{ var x[1] := [1] } + ~{ var x[1] := [2] }}) == 6
+~{ var x := 1 } + ~{ var x := 2 } == 3
+(~{ var x := 1 } + ~{ var x := 2 } + ~{~{ var x := 1 } + ~{ var x := 2 }}) == 6
+(~{ var x := 1 } + ~{ var x := 2 }) == (~{ var x := 2 } + ~{ var x := 1 })
+(~{ var x := 1 } + ~{ var x[6] := {6,5,4,3,2,1} }) == 7
+var x := 1; var y := 2; 1
+var x := 1; var y := 2; swap(x,y); (x == 2) and (y == 1)
+var x := 1; var y := 2; ~(swap(x,y),(x == 2) and (y == 1))
+var x := 1; var y := 2; var v[2] := {3,4}; swap(x,v[0]); swap(v[1],y); (x == 3) and (y == 4)
+var x := 1; var y := 2; var v[2] := {3,4}; swap(x,v[2 * zero]); swap(v[(2 * one) / (1 + 1)],y); (x == 3) and (y == 4)
+var x := 1; var y := 2; var v[2] := {3,4}; swap(x,v[zero]); swap(v[one],y); (x == 3) and (y == 4)
+var x := 1; var y := 2; var v[2] := {3,4}; x <=> v[0]; v[1] <=> y; (x == 3) and (y == 4)
+var x := 1; var y := 2; var v[2] := {3,4}; x <=> v[zero / 3]; v[(2 * one)/(1 + 1)] <=> y; (x == 3) and (y == 4)
+var x := 1; var y := 2; var v[2] := {3,4}; x <=> v[zero]; v[one] <=> y; (x == 3) and (y == 4)
+var x := 1; var y := 2; x
+var x := 1; var y := 2; x <=> y     ; (x    == 2) and (y    == 1)
+var x := 1; x
+var x := 2; (~{ for (var i := 0; i < 10; i += 1) { for (var j := 0; j <= i; j += 1) { var y := 3; if ((i + j + y + x) < 6) { y += x; continue; } else break[i + j]; } } } + ~{ for (var i := 0; i < 10; i += 1) { for (var j := 0; j <= i; j += 1) { var y := 3; if ((i + j + y + x) < 6) { y += x; continue; } else break[i + j]; } } }) == 18
+var x := 2; var v0[3] := {1,2,3}; ( ~{ for (var i := 0; i < 10; i += 1) { for (var j := 0; j <= i; j += 1) { var y := 3; var v2[3] := {1,2,3}; if ( (i + j + y + x + abs(v0[i % v0[]] - v2[j % v2[]])) < 6) { var v3[3] := {1,2,3}; y += x / v3[j % v3[]]; continue; } else break[i + j]; } } } + ~{ for (var i := 0; i < 10; i += 1) { for (var j := 0; j <= i; j += 1)  { var y := 3; var v2[3] := {1,2,3}; if ((i + j + y + x + abs(v0[i % v0[]] - v2[j % v2[]])) < 6) { var v3[3] := {1,2,3}; y += x / v3[j % v3[]]; continue; } else break[i + j]; } } } ) == 18
+var x:= 2; var y := 3; (-abs(x + 0)+abs(y - 0))  ==  1
+var x:= 2; var y := 3; (-abs(x + 0)--abs(y - 0)) ==  1
+var x:= 2; var y := 3; (-abs(x + 0)/-abs(y - 0)) ==  (2/3)
+var x:= 2; var y := 3; (abs(x + 0)--abs(y - 0))  ==  5
+var x:= 2; var y := 3; (-abs(x + 0)-abs(y - 0))  == -5
+var x:= 2; var y := 3; (-abs(x + 0)+-abs(y - 0)) == -5
+var x:= 2; var y := 3; (-abs(x + 0)*-abs(y - 0)) ==  6
+var x:= 2; var y := 3; (-abs(x)+abs(y))  ==  1
+var x:= 2; var y := 3; (-abs(x)--abs(y)) ==  1
+var x:= 2; var y := 3; (-abs(x)/-abs(y)) ==  (2/3)
+var x:= 2; var y := 3; (abs(x)--abs(y))  ==  5
+var x:= 2; var y := 3; (-abs(x)-abs(y))  == -5
+var x:= 2; var y := 3; (-abs(x)+-abs(y)) == -5
+var x:= 2; var y := 3; (-abs(x)*-abs(y)) ==  6
+var x[3] := {0.1,0.2,0.3}; sum(trunc(x)) == 0
+var x[3] := [0]; var y[1] := {1};       x <= y
+var x[3] := [0]; var y[1] := {1};       x <  Y
+var x[3] := [0]; var y[1] := {1};       x < (y += 1)
+var x[3] := [0]; var y[1] := {5};       (x += 1) < y
+var x[3] := [0]; var y[1] := {5};       (x += 1) < (y += 1)
+var x[3] := [0]; var y[2] := {1,2};     x <= y
+var x[3] := [0]; var y[2] := {1,2};     X <  y
+var x[3] := [0]; var y[2] := {1,2};     x < (y += 1)
+var x[3] := [0]; var y[2] := {5,6};     (x += 1) < y
+var x[3] := [0]; var y[2] := {5,6};     (x += 1) < (y += 1)
+var x[3] := [0]; var y[3] := {1,2,3};   x <= y
+var x[3] := [0]; var y[3] := {1,2,3};   x <  Y
+var x[3] := [0]; var y[3] := {1,2,3};   x < (y += 1)
+var x[3] := [0]; var y[3] := {5,6,7};   (x += 1) < y
+var x[3] := [0]; var y[3] := {5,6,7};   (x += 1) < (y += 1)
+var x[3] := [0]; var y[4] := {1,2,3,4}; x <= y
+var x[3] := [0]; var y[4] := {1,2,3,4}; X <  y
+var x[3] := [0]; var y[4] := {1,2,3,4}; x < (y += 1)
+var x[3] := [0]; var y[4] := {5,6,7,8}; (x += 1) < y
+var x[3] := [0]; var y[4] := {5,6,7,8}; (x += 1) < (y += 1)
+var x[3] := {1,1,1};  var y := 1; x == y
+var x[3] := {1,1,1};  var y := 1; y == x
+var x[3] := {1,1,1};  var y := 2; x == y - 1
+var x[3] := {1,1,1};  var y := 2; y - 1 == x
+var x[3] := {-1,-2,-3};    sum(abs(x)  ) == 6
+var x[3] := {1,2,3};  var y := 3; equal(true,(x -= 1) < y + 1)
+var x[3] := {1,2,3};  var y := 3; x <= y + 1
+var x[3] := {1,2,3};  var y := 3; x < y + 1
+var x[3] := {1,2,3};  var y := 3; y >= x
+var x[3] := {1,2,3};  var y := 5; equal(true,(x -= 1) <= y)
+var x[3] := {1,2,3};  var y := 5; equal(true,(x += 1) < y)
+var x[3] := {1,2,3};  var y := 5; x <= y
+var x[3] := {1,2,3};  var y := 5; x < y
+var x[3] := {1,2,3};  var y := 5; y + 1 > x
+var x[3] := {1,2,3};  var y := 5; y + 1 > (x += 1)
+var x[3] := {1,2,3};  var y := 5; y > x
+var x[3] := {1,2,3};  var y := 5; y > (x += 1)
+var x[3] := {1,2,3}; (x[0] == 1) and (x[1] == 2) and (x[2] == 3)
+var x[3] := {1,2};   (x[0] == 1) and (x[1] == 2) and (x[2] == 0)
+(~{ var x[3] := [1] } + ~{ var x[6] := {6,5,4,3,2,1}}) == 7
+var x[3] := [1]; var y[1] := {1};       var z[3] := [1]; z := 2(x * y)/3; z == 2(x * y)/3
+var x[3] := [1]; var y[1] := {1};       var z[3] := [1]; z := 2(x * y); z == (x * y)2
+var x[3] := [1]; var y[1] := {1};       var z[3] := [1]; z := (x * y); z == (x * y)
+var x[3] := [1]; var y[1] := [1];       x == y
+var x[3] := [1]; var y[1] := [2];       x != y
+var x[3] := [1]; var y[2] := {1,2};     var z[3] := [1]; z := 2(x / y)/3; z == 2(x / y)/3
+var x[3] := [1]; var y[2] := {1,2};     var z[3] := [1]; z := 2(x / y); z == (x / y)2
+var x[3] := [1]; var y[2] := {1,2};     var z[3] := [1]; z := (x / y); z == (x / y)
+var x[3] := [1]; var y[2] := [1];       x == y
+var x[3] := [1]; var y[2] := [2];       x != y
+var x[3] := [1]; var y[3] := {1,2,3};   var z[3] := [1]; z := 2(x - y)/3; z == 2(x - y)/3
+var x[3] := [1]; var y[3] := {1,2,3};   var z[3] := [1]; z := 2(x - y); z == (x - y)2
+var x[3] := [1]; var y[3] := {1,2,3};   var z[3] := [1]; z := (x - y); z == (x - y)
+var x[3] := [1]; var y[3] := [1];       x == y
+var x[3] := [1]; var y[3] := [2];       x != y
+var x[3] := [1]; var y[4] := {1,2,3,4}; var z[3] := [1]; z := 2(x + y)/3; z == 2(x + y)/3
+var x[3] := [1]; var y[4] := {1,2,3,4}; var z[3] := [1]; z := 2(x + y); z == (x + y)2
+var x[3] := [1]; var y[4] := {1,2,3,4}; var z[3] := [1]; z := (x + y); z == (x + y)
+var x[3] := [1]; var y[4] := [1];       x == y
+var x[3] := [1]; var y[4] := [2];       x != y
+var x[3] := [1];     (x[0] == 1) and (x[1] == 1) and (x[2] == 1)
+var x[3] := {2,2,2};  var y := 0; y + 1 == (x -= 1)
+var x[3] := {2,2,2};  var y := 1; (x -= 1) == y
+var x[3] := {2,2,2};  var y := 1; y == (x -= 1)
+var x[3] := [5]; var y[1] := {1};       x >= y
+var x[3] := [5]; var y[1] := {1};       x >  y
+var x[3] := [5]; var y[2] := {1,2};     x >= y
+var x[3] := [5]; var y[2] := {1,2};     x >  y
+var x[3] := [5]; var y[3] := {1,2,3};   x >= y
+var x[3] := [5]; var y[3] := {1,2,3};   x >  y
+var x[3] := [5]; var y[4] := {1,2,3,4}; x >= y
+var x[3] := [5]; var y[4] := {1,2,3,4}; x >  y
+var x[3] := [8]; var y[1] := {1};       (x += 1) <=> (y += 1); (x[0] == 2) and (x[1] == 9) and (x[2] == 9)
+var x[3] := [8]; var y[1] := {1};       (x += 1) <=> y; (x[0] == 1) and (x[1] == 9) and (x[2] == 9)
+var x[3] := [8]; var y[2] := {1,2};     (x += 1) <=> (y += 1); (x[0] == 2) and (x[1] == 3) and (x[2] == 9)
+var x[3] := [8]; var y[2] := {1,2};     (x += 1) <=> y; (x[0] == 1) and (x[1] == 2) and (x[2] == 9)
+var x[3] := [8]; var y[3] := {1,2,3};   (x += 1) <=> (y += 1); (x[0] == 2) and (x[1] == 3) and (x[2] == 4)
+var x[3] := [8]; var y[3] := {1,2,3};   (x += 1) <=> y; (x[0] == 1) and (x[1] == 2) and (x[2] == 3)
+var x[3] := [8]; var y[4] := {1,2,3,4}; (x += 1) <=> (y += 1); (x[0] == 2) and (x[1] == 3) and (x[2] == 4)
+var x[3] := [8]; var y[4] := {1,2,3,4}; (x += 1) <=> y; (x[0] == 1) and (x[1] == 2) and (x[2] == 3)
+var x[3] := [9]; var y[1] := {1};       x <=> (y += 1); (x[0] == 2) and (x[1] == 9) and (x[2] == 9)
+var x[3] := [9]; var y[1] := {1};       x <=> y; (x[0] == 1) and (x[1] == 9) and (x[2] == 9)
+var x[3] := [9]; var y[2] := {1,2};     x <=> (y += 1); (x[0] == 2) and (x[1] == 3) and (x[2] == 9)
+var x[3] := [9]; var y[2] := {1,2};     x <=> y; (x[0] == 1) and (x[1] == 2) and (x[2] == 9)
+var x[3] := [9]; var y[3] := {1,2,3};   x <=> (y += 1); (x[0] == 2) and (x[1] == 3) and (x[2] == 4)
+var x[3] := [9]; var y[3] := {1,2,3};   x <=> y; (x[0] == 1) and (x[1] == 2) and (x[2] == 3)
+var x[3] := [9]; var y[4] := {1,2,3,4}; x <=> (y += 1); (x[0] == 2) and (x[1] == 3) and (x[2] == 4)
+var x[3] := [9]; var y[4] := {1,2,3,4}; x <=> y; (x[0] == 1) and (x[1] == 2) and (x[2] == 3)
+~{~{var x := 3}} + ~{var x := '1234'; x[]}          == 7
+~{var x := 3} + ~{var x := '1234'; x[]}             == 7
+var x[3] := {};  var y[1] := {1};       x := (y+=1); (x[0] == y[0]) and (x[1] ==    0) and (x[2] ==    0)
+var x[3] := {};  var y[1] := {1};       x := y; (x[0] == y[0]) and (x[1] ==    0) and (x[2] ==    0)
+var x[3] := {};  var y[2] := {1,2};     x := (y+=1); (x[0] == y[0]) and (x[1] == y[1]) and (x[2] ==    0)
+var x[3] := {};  var y[2] := {1,2};     x := y; (x[0] == y[0]) and (x[1] == y[1]) and (x[2] ==    0)
+var x[3] := {};  var y[3] := {1,2,3};   x := (y+=1); (x[0] == y[0]) and (x[1] == y[1]) and (x[2] == y[2])
+var x[3] := {};  var y[3] := {1,2,3};   x := y; (x[0] == y[0]) and (x[1] == y[1]) and (x[2] == y[2])
+var x[3] := {};  var y[4] := {1,2,3,4}; x := (y+=1); (x[0] == y[0]) and (x[1] == y[1]) and (x[2] == y[2])
+var x[3] := {};  var y[4] := {1,2,3,4}; x := y; (x[0] == y[0]) and (x[1] == y[1]) and (x[2] == y[2])
+var x := 3; var y := 6; -x * -y == 18
+var x:=3; var y:=6; -(-(-x))*-(-(-y))         ==  18
+var x:=3; var y:=6; -(-x)*-(-(-y))            == -18
+var x:=3; var y:=6; -(-x)*-(-y)               ==  18
+var x := 3; var y := 6;  x + -y == -3
+var x := 3; var y := 6; -x - -y ==  3
+var x := 3; var y := 6;  x - -y ==  9
+var x := 3; var y := 6; -x + -y == -9
+var x:=3; var y:=6; -(-(-(x+y)))*-(-(-(y+x))) ==  81
+var x:=3; var y:=6; -(-(-(x+y)))*-(-(y+x))    == -81
+var x:=3; var y:=6; -(-(x+y))*-(-(y+x))       ==  81
+var x[3] := {};      (x[0] == 0) and (x[1] == 0) and (x[2] == 0)
+var x[6] := {1,2,3,4,5,6}; equal(sqrt(sum([x - avg(x)]^2) / x[]),1.7078251277)
+(~{ var x[6] := {6,5,4,3,2,1} } + ~{ var x := 1 }) == 7
+var x := 6; var y := 3; -x / -y ==  2
+var x:=6; var y:=4;  3 / -x == -0.5
+var x:=6; var y:=4; -3 / -x ==  0.5
+var x:=6; var y:=4;  3 * -x ==  -18
+var x:=6; var y:=4; -3 * -x ==   18
+var x:=6; var y:=4;  3 + -x ==   -3
+var x:=6; var y:=4; -3 - -x ==    3
+var x:=6; var y:=4;  3 - -x ==    9
+var x:=6; var y:=4; -3 + -x ==   -9
+var x:=6; var y:=4; x * -3  == -18
+var x:=6; var y:=4; x / -3  ==  -2
+var x:=6; var y:=4; -x - -3 ==  -3
+var x:=6; var y:=4; x + -3  ==   3
+var x:=6; var y:=4; -x + -3 ==  -9
+var x:=6; var y:=4; x - -3  ==   9
+var x := 'abc'; var y := '123'; x != y
+var x := 'abc'; var y := '123' + x; y == '123abc'
+var x := 'abc'; var y := x + '123'; y == 'abc123'
+var x := 'abc'; x == 'abc'
+~{var x := 'xxx'; var y := 'yyy';~{((x + '2') != x ? x : y) == x  }}
+~{var x := 'xxx'; var y := 'yyy';~{(x == (x + '1') ? x : y) == y  }}
+~{var x := 'xxx'; var y := 'yyy';~{'xxx1' == (x < y ? x + '1' : y)}}
+~{var x := 'xxx'; var y := 'yyy';~{x == (x != (x + '2') ? x : y)  }}
+~{var x := 'xxx'; var y := 'yyy';~{(x < y ? x + '1' : y) == 'xxx1'}}
+~{var x := 'xxx'; var y := 'yyy';~{(x > y ? x : y + '2') == 'yyy2'}}
+~{var x := 'xxx'; var y := 'yyy';~{(x < y ? x : y) == x           }}
+~{var x := 'xxx'; var y := 'yyy';~{(x > y ? x : y) == y           }}
+~{var x := 'xxx'; var y := 'yyy';~{y == (x == (x + '1') ? x : y)  }}
+~{var x := 'xxx'; var y := 'yyy';~{'yyy2' == (x > y ? x : y + '2')}}
