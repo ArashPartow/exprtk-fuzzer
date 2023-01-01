@@ -13,7 +13,7 @@ Free  use  of  the  ExprTk  Fuzzer  is  permitted  under the
 guidelines and in accordance  with the most current  version
 of the MIT License.
 
-   http://www.opensource.org/licenses/MIT
+   https://www.opensource.org/licenses/MIT
 
 
 

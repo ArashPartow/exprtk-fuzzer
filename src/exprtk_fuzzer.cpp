@@ -13,8 +13,8 @@ int main()
    }
 
    typedef exprtk::symbol_table<double> symbol_table_t;
-   typedef exprtk::expression<double>     expression_t;
-   typedef exprtk::parser<double>             parser_t;
+   typedef exprtk::expression<double>   expression_t;
+   typedef exprtk::parser<double>       parser_t;
 
    expression_t expression;
    symbol_table_t symbol_table;
@@ -40,6 +40,6 @@ int main()
    expression.register_symbol_table(symbol_table);
 
    parser.compile(expression_string,expression);
-   
+
    return 0;
 }
