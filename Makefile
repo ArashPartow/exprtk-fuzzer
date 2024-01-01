@@ -3,14 +3,14 @@
 # *         C++ Mathematical Expression Toolkit Library        *
 # *                                                            *
 # * ExprTk Fuzzer (AFL)                                        *
-# * Author: Arash Partow (1999-2023)                           *
+# * Author: Arash Partow (1999-2024)                           *
 # * URL: http://www.partow.net/programming/exprtk/index.html   *
 # *                                                            *
 # * Copyright notice:                                          *
 # * Free use of the Mathematical Expression Toolkit Library is *
 # * permitted under the guidelines and in accordance with the  *
 # * most current version of the MIT License.                   *
-# * http://www.opensource.org/licenses/MIT                     *
+# * https://www.opensource.org/licenses/MIT                    *
 # *                                                            *
 # **************************************************************
 # 
@@ -45,7 +45,7 @@ build:
 debug: CXXFLAGS += -DDEBUG -g
 debug: all
 
-release: CXXFLAGS += -O2
+release: CXXFLAGS += -O2 -DNDEBUG
 release: all
 
 clean:

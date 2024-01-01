@@ -10,7 +10,7 @@
 # * Free use of the Mathematical Expression Toolkit Library is *
 # * permitted under the guidelines and in accordance with the  *
 # * most current version of the MIT License.                   *
-# * http://www.opensource.org/licenses/MIT                     *
+# * https://www.opensource.org/licenses/MIT                    *
 # *                                                            *
 # **************************************************************
 #
@@ -37,7 +37,7 @@ while IFS= read -r i; do
     ((++failure_count))
     printf "Failure[%d] on input: %s\n" ${failure_count} "${i}"
     printf "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n"
-  fi   
+  fi
 
 done < <(cat ${expression_list})
 
